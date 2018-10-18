@@ -1,0 +1,1 @@
+document.write("</div><div id='footer'><p>By 850579 | 2018 <a title='https://validator.w3.org/check?uri=referer' href='https://validator.w3.org/check?uri=referer'>HTML Validator</a><a title = 'http://jigsaw.w3.org/css-validator/check/referer/' href='http://jigsaw.w3.org/css-validator/check/referer/'> CSS Validator</a></p></div>")
